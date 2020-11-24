@@ -9671,7 +9671,7 @@ span.diff {
   padding: 10px 30px;
   color: #fff;
   font-size: 16px;
-  text-transform: capitalize;
+  
   font-weight: 600;
   transition: 0.3s ease-in;
   border: 2px solid var(--opposite-color);
@@ -9689,7 +9689,7 @@ span.diff {
   padding: 10px 24px;
   color: #222222;
   font-size: 16px;
-  text-transform: capitalize;
+  
   font-weight: 600;
   transition: 0.3s ease-in;
   border: 2px solid var(--opposite-color);
@@ -9707,7 +9707,7 @@ span.diff {
   padding: 8px 16px;
   color: #222222;
   font-size: 16px;
-  text-transform: capitalize;
+  
   font-weight: 600;
   transition: 0.3s ease-in;
   border: 2px solid var(--opposite-color);
@@ -9726,7 +9726,7 @@ span.diff {
   padding: 10px 30px;
   color: #fff;
   font-size: 16px;
-  text-transform: capitalize;
+  
   font-weight: 600;
   transition: 0.3s ease-in;
   border: 2px solid #747474;
@@ -9869,7 +9869,8 @@ h4.sub-title {
 
 .w3l-bootstrap-header .navbar-light .navbar-nav .nav-link {
   color: var(--white-color);
-  text-transform: capitalize; }
+  
+ }
 
 .w3l-bootstrap-header li.nav-item {
   margin: 0px 10px; }
@@ -10105,7 +10106,7 @@ h4.sub-title {
   font-size: 16px;
   line-height: 25px;
   color: var(--white-color);
-  text-transform: capitalize; }
+   }
 
 .w3l-header-4 .angle-dropdown {
   display: inline-block;
@@ -10175,7 +10176,7 @@ h4.sub-title {
   display: block;
   padding: 5px 12px;
   color: var(--title-color);
-  text-transform: capitalize; }
+   }
 
 .w3l-header-4 nav a {
   padding: 20px 0; }
@@ -10296,7 +10297,7 @@ h4.sub-title {
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
-    text-transform: capitalize;
+    
     color: #fff; }
   .w3l-header-4 label.toggle.toogle-2:hover,
   .w3l-header-4 label.toggle.toogle-3:hover,
@@ -10519,7 +10520,7 @@ h4.sub-title {
   .w3l-feature-3 span.number img {
     vertical-align: -webkit-baseline-middle; }
   .w3l-feature-3 .top-bottom {
-    background: url(../images/3.jpg) no-repeat center;
+    background: url(../images/3.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -10702,7 +10703,7 @@ h4.sub-title {
   line-height: 25px;
   color: var(--heading-color);
   display: block;
-  text-transform: capitalize;
+  
   margin-bottom: 5px; }
 
 .product:hover .info-bg h5 a {
@@ -11011,7 +11012,7 @@ body:after {
 
 .services-12 .tagline {
   color: var(--title-color);
-  text-transform: capitalize;
+  
   line-height: 37px;
   font-size: 30px;
   font-weight: 700; }
@@ -11360,7 +11361,7 @@ body:after {
   color: #fff;
   font-size: 20px;
   line-height: 25px;
-  text-transform: capitalize;
+  
   margin-bottom: 25px;
   font-weight: 700; }
 
@@ -11733,7 +11734,7 @@ body:after {
   color: var(--title-color);
   margin-bottom: 40px;
   text-align: center;
-  text-transform: capitalize;
+  
   font-weight: 700; }
 
 .w3l-subscribe form.rightside-form input {
@@ -11867,7 +11868,7 @@ body:after {
   .w3l-pricing-7 h6 {
     font-size: 34px;
     text-align: center;
-    text-transform: capitalize;
+    
     font-weight: 700;
     color: var(--white-color);
     padding: 38px 0;
