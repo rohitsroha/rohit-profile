@@ -11198,9 +11198,11 @@ body:after {
     bottom: -25px;
     margin: 0 auto; }
   .w3l-testimonials .off-testi-2 {
-    display: none; }
+    /* display: none;  */
+  }
   .w3l-testimonials .off-testi {
-    display: none; } }
+    /* display: none;  */
+  } }
 
 @media (max-width: 640px) {
   .w3l-testimonials .feedback-review img {
