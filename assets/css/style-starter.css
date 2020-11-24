@@ -10435,7 +10435,7 @@ h4.sub-title {
   -ms-transition: 0.3s ease-in; }
 
 .w3l-main-banner .banner-view {
-  background: url(../images/1.jpg) no-repeat right;
+  background: url(../images/01.jpg) no-repeat right;
   background-size: cover;
   min-height: 100vh;
   position: relative;
@@ -10520,7 +10520,7 @@ h4.sub-title {
   .w3l-feature-3 span.number img {
     vertical-align: -webkit-baseline-middle; }
   .w3l-feature-3 .top-bottom {
-    background: url(../images/3.png) no-repeat center;
+    background: url(../images/03.png) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -10963,7 +10963,7 @@ body:after {
     font-size: 12px; } }
 
 .services-12 .form-12-content {
-  background: url("../images/2.jpg") no-repeat center;
+  background: url("../images/02.jpg") no-repeat center;
   background-size: cover;
   padding: 5rem 0px;
   background-attachment: fixed;
