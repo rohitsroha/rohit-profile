@@ -9942,11 +9942,23 @@ h4.sub-title {
 
 @media (max-width: 569px) {
   .w3l-bootstrap-header nav.navbar {
-    padding: 0 15px; } }
+    padding: 0 15px; 
+  } 
+  
+  .w3l-bootstrap-header a.navbar-brand {
+    font-size: 24px; 
+  }
+    .w3l-bootstrap-header a.navbar-brand span {
+      font-size: 24px;
+  }
+  .navbar-brand {
+    margin-right: 0rem;
+}
+}
 
 @media (max-width: 320px) {
   .w3l-bootstrap-header a.navbar-brand {
-    font-size: 28px; }
+    font-size: 24px; }
   .w3l-bootstrap-header .navbar-brand {
     margin-right: 0rem; } }
 
